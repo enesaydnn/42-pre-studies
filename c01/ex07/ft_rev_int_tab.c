@@ -6,10 +6,10 @@ void    ft_rev_int_tab(int *tab, int size)
 
     while (i < size / 2)
     {
-       tab[i] = temp;
-       tab[i] = tab[size -i -1];
-       temp = tab[size -i -1];
-       i++;
+        temp = tab[i];               
+        tab[i] = tab[size - i - 1];   
+        tab[size - i - 1] = temp;
+        i++;
     }
 }
 /*
