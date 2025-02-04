@@ -1,7 +1,5 @@
 Merhaba,
 
-Bu repodaki çalışmalar, serbest çalışma niteliğindedir.
-
-İçerikteki bilgilerden siz de faydalanabilirsiniz. Linux kullandığım için dosyalar ODT formatındadır. Dilerseniz bu dosyaları PDF, TXT gibi farklı formatlara dönüştürerek açabilir ve kullanabilirsiniz.
+Bu repodaki çalışmalar serbest çalışma niteliğindedir. İçerikteki bilgilerden faydalanabilirsiniz. Linux kullanmam nedeniyle dosyalar ODT formatında kaydedilmiştir. LibreOffice kullanarak bu dosyaları açabilir ve isterseniz "Farklı Kaydet" seçeneğiyle diğer formatlara dönüştürerek kullanabilirsiniz.
 
 Saygılarımla
