@@ -28,7 +28,7 @@ void ft_putchar (char *str)
         write(1,&str[i],1);
         i++;
     }
-    write(1,"\n",1);
+
 }
 
 int main(int ac, char **av)
@@ -37,7 +37,9 @@ int main(int ac, char **av)
    if (ac > 1)
    {
         ft_putchar(av[i]);
+        write(1,"\n",1);
         i--;
    }
+   write(1,"\n",1);
    return (0);
 }
